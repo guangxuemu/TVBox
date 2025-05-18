@@ -21,6 +21,7 @@
 {"key":"卧龙资源","name":"卧龙资源[直连]","type":1,"api":"https://wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"header":{"User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"}},
 {"key":"360资源","name":"360资源[直连]","type":1,"api":"https://360zy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"header":{"User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"}},
 {"key":"天涯资源","name":"天涯资源[直连]","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"header":{"User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"}},
+{"key":"蜂巢资源","name":"蜂巢资源[直连]","type":1,"api":"https://seep.eu.org/api.fczy888.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"header":{"User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"}},
 
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzymovie.com/"},
 {"key":"csp_LiteApple","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
